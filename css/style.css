@@ -1,3 +1,7 @@
+body{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
 .my-bg-blue{
 	background-color:#2C3E50;
 }
@@ -10,8 +14,16 @@
 	background-color: #3A546D;
 }
 
-.my-box{
-	font-size:.8rem;
-	padding:1rem;
-	border:1px solid black;
+section#jumbotron figure.my-jumbo-img{
+	width:220px;
 }
+
+section#jumbotron h2.my-jumbo-brand{
+	font-size:3.8rem;
+}
+
+section#jumbotron div.my-divider-bar{
+	height:4px;
+	width:11rem;
+}
+
