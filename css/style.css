@@ -32,6 +32,10 @@ body{
 	height:65px;
 }
 
+.my-pb{
+	padding-bottom:7rem;
+}
+
 section#jumbotron figure.my-jumbo-img{
 	width:220px;
 }
