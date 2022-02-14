@@ -14,6 +14,10 @@ body{
 	background-color: #3A546D;
 }
 
+.my-turquoise{
+	color: #1ABC9C;
+}
+
 .my-divider-bar{
 	height:4px;
 	width:10%;
@@ -21,6 +25,11 @@ body{
 
 .my-section-title{
 	font-size:3rem;
+}
+
+.my-social-icon{
+	width:75px;
+	height:75px;
 }
 
 section#jumbotron figure.my-jumbo-img{
