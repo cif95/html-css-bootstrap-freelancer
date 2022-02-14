@@ -14,16 +14,22 @@ body{
 	background-color: #3A546D;
 }
 
+.my-divider-bar{
+	height:4px;
+	width:10%;
+}
+
+.my-section-title{
+	font-size:3rem;
+}
+
 section#jumbotron figure.my-jumbo-img{
 	width:220px;
 }
 
 section#jumbotron h2.my-jumbo-brand{
-	font-size:3.8rem;
+	font-size:2.8rem;
 }
 
-section#jumbotron div.my-divider-bar{
-	height:4px;
-	width:11rem;
-}
+
 
