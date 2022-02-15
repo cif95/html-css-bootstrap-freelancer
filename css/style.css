@@ -23,16 +23,12 @@ body{
 	width:10%;
 }
 
-.my-section-title{
-	font-size:2rem;
-}
-
 .my-social-icon{
 	width:65px;
 	height:65px;
 }
 
-.my-pb{
+.my-pb-7{
 	padding-bottom:7rem;
 }
 
@@ -40,9 +36,6 @@ section#jumbotron figure.my-jumbo-img{
 	width:220px;
 }
 
-section#jumbotron h2.my-jumbo-brand{
-	font-size:2.8rem;
-}
 
 
 
